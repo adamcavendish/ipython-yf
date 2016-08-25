@@ -64,5 +64,7 @@ yf_debug(print_sum, 1, 2)
 
 ## Compatibility
 
-Python >= 3.5
+Python >= 3.3
+
+(Note: for python 3.3 you need to use pip to install asyncio manually)
 
