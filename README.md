@@ -8,7 +8,7 @@
 
 Put `yf.py` to anywhere ipython can load
 
-```
+```python
 In [1]: %load_ext yf
 
 In [2]: import asyncio
@@ -35,7 +35,7 @@ Compute 1 + 2 ...
 
 Usage:
 
-```
+```python
 import asyncio
 import time
 from yf_debug import yf_debug
